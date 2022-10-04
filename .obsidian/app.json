@@ -1,0 +1,12 @@
+{
+  "defaultViewMode": "preview",
+  "strictLineBreaks": true,
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./_attachments"
+}
